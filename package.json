@@ -1,0 +1,35 @@
+{
+  "name": "node-js-playlist",
+  "version": "1.0.0",
+  "description": "A small node.js to-do application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omsrivastava/node-js-playlist.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "express",
+    "body-parser",
+    "ejs"
+  ],
+  "author": "Om Srivastava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omsrivastava/node-js-playlist/issues"
+  },
+  "homepage": "https://github.com/omsrivastava/node-js-playlist#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
