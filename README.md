@@ -1,5 +1,5 @@
-# node-js-playlist
-A sample node.js playlist application
+# node-js-todo-list
+A sample node.js todo application
 
 ## 1. To setup project in local system
 * Clone the project using git or download and extract into a folder
@@ -9,9 +9,9 @@ A sample node.js playlist application
 
 ## 2. Run these commands in terminal to run setup and run the project in local system
 ```
-$ git clone https://github.com/omsrivastava/node-js-playlist.git
+$ git clone https://github.com/omsrivastava/node-js-todo-list.git
 
-$ cd node-js-playlist/
+$ cd node-js-todo-list/
 
 $ npm install
 

@@ -1,5 +1,5 @@
 {
-  "name": "node-js-playlist",
+  "name": "node-js-todo-list",
   "version": "1.0.0",
   "description": "A small node.js to-do application",
   "main": "app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omsrivastava/node-js-playlist.git"
+    "url": "git+https://github.com/omsrivastava/node-js-todo-list.git"
   },
   "keywords": [
     "node.js",
@@ -21,9 +21,9 @@
   "author": "Om Srivastava",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/omsrivastava/node-js-playlist/issues"
+    "url": "https://github.com/omsrivastava/node-js-todo-list/issues"
   },
-  "homepage": "https://github.com/omsrivastava/node-js-playlist#readme",
+  "homepage": "https://github.com/omsrivastava/node-js-todo-list#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
